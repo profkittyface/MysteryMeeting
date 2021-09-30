@@ -1,0 +1,6 @@
+flask
+flask_wtf
+flask_login
+sqlalchemy
+psycopg2
+geoalchemy2
